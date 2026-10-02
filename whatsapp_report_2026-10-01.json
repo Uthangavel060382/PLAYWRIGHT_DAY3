@@ -1,0 +1,34 @@
+{
+  "report_date": "2026-10-01",
+  "run_started": "2026-10-01T00:13:49",
+  "run_finished": "2026-10-01T00:14:42",
+  "duration_seconds": 53,
+  "dry_run": false,
+  "contacts_file": "contacts.xlsx",
+  "totals": {
+    "contacts": 1,
+    "sent": 0,
+    "pending": 0,
+    "dry_run": 0,
+    "not_found": 0,
+    "failed": 1,
+    "skipped": 0,
+    "not_processed": 0
+  },
+  "results": [
+    {
+      "row": 2,
+      "name": "Udhaya Surian Thangavel",
+      "phone": "+14075204736",
+      "message": "Hello Udhaya,This is playwright RPA testing",
+      "status": "Failed",
+      "found_via": "search: number",
+      "delivery": null,
+      "sent_at": null,
+      "screenshot": "screenshots/2026-10-01/error_row2_Udhaya_Surian_Thangavel_001440.png",
+      "error": "TimeoutError: Locator.click: Timeout 5000ms exceeded.",
+      "last_messages": [],
+      "extraction": null
+    }
+  ]
+}

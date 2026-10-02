@@ -1,0 +1,34 @@
+00:09:27 | INFO    | Loaded 2 contact(s) from contacts.xlsx
+00:09:32 | INFO    | Opening WhatsApp Web ...
+00:09:43 | INFO    | Scan the QR code: phone > WhatsApp > Linked devices > Link a device (waiting up to 180 s)
+00:10:08 | INFO    | Logged in - letting chats finish loading
+00:10:13 | INFO    | === Phase 1: sending messages to 2 contact(s) ===
+00:10:13 | INFO    | [1/2] Udhaya Surian Thangavel  +14075204736
+00:10:13 | INFO    |    searching for '14075204736'
+00:10:48 | INFO    |    Enter didn't send - clicking the send button
+00:10:53 | ERROR   |    error: TimeoutError: Locator.click: Timeout 5000ms exceeded.
+00:10:53 | INFO    |    -> Failed
+00:10:57 | INFO    | [2/2] Nithyasree Udhayasurian  +14074172517
+00:10:57 | INFO    |    searching for '14074172517'
+00:11:22 | INFO    |    '14074172517' did not open a chat for Nithyasree Udhayasurian
+00:11:22 | INFO    |    searching for 'Nithyasree Udhayasurian'
+00:11:48 | INFO    |    'Nithyasree Udhayasurian' did not open a chat for Nithyasree Udhayasurian
+00:11:48 | INFO    |    opening chat via direct link for +14074172517
+00:12:22 | INFO    |    Enter didn't send - clicking the send button
+00:12:27 | ERROR   |    error: TimeoutError: Locator.click: Timeout 5000ms exceeded.
+00:12:29 | INFO    |    -> Failed
+00:12:29 | INFO    | === Phase 2: extracting last 3 messages from 0 contact(s) ===
+00:12:32 | INFO    | Done - contacts: 2, failed: 2
+00:12:32 | INFO    | Reports: whatsapp_report_2026-10-01.json | whatsapp_report_2026-10-01.xlsx
+00:13:49 | INFO    | Loaded 1 contact(s) from contacts.xlsx
+00:13:53 | INFO    | Opening WhatsApp Web ...
+00:14:02 | INFO    | Logged in - letting chats finish loading
+00:14:07 | INFO    | === Phase 1: sending messages to 1 contact(s) ===
+00:14:07 | INFO    | [1/1] Udhaya Surian Thangavel  +14075204736
+00:14:07 | INFO    |    searching for '14075204736'
+00:14:35 | INFO    |    Enter didn't send - clicking the send button
+00:14:40 | ERROR   |    error: TimeoutError: Locator.click: Timeout 5000ms exceeded.
+00:14:40 | INFO    |    -> Failed
+00:14:40 | INFO    | === Phase 2: extracting last 3 messages from 0 contact(s) ===
+00:14:42 | INFO    | Done - contacts: 1, failed: 1
+00:14:42 | INFO    | Reports: whatsapp_report_2026-10-01.json | whatsapp_report_2026-10-01.xlsx

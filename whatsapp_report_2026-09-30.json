@@ -1,0 +1,25 @@
+{
+  "title": "Social Eagle · CAIE Architect Program",
+  "generated_at": "2026-09-30T23:55:08-04:00",
+  "contacts_file": "contacts.xlsx",
+  "results": [
+    {
+      "name": "Udhaya Surian Thangavel",
+      "phone": "+14075204736",
+      "message_sent": "Hello Udhaya,This is playwright RPA testing",
+      "status": "sent_unconfirmed",
+      "screenshot": "",
+      "last_3_incoming_messages": [],
+      "error": "Message was submitted, but an outgoing bubble was not confirmed: Locator.wait_for: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"div.message-out\").filter(has_text=\"Hello Udhaya,This is playwright RPA testing\").last to be visible\n"
+    },
+    {
+      "name": "Nithyasree Udhayasurian",
+      "phone": "+14074172517",
+      "message_sent": "Hello Nithya, This is playwright RPA testing",
+      "status": "sent_unconfirmed",
+      "screenshot": "",
+      "last_3_incoming_messages": [],
+      "error": "Message was submitted, but an outgoing bubble was not confirmed: Locator.wait_for: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"div.message-out\").filter(has_text=\"Hello Nithya, This is playwright RPA testing\").last to be visible\n"
+    }
+  ]
+}
